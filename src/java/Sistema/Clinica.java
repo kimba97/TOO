@@ -9,6 +9,7 @@ package Sistema;
  *
  * @author kimba
  */
+//Prueba de actualizacion
 public class Clinica {
     private String cod_Clin;
     private String nom_Clin;
